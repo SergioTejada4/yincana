@@ -18,3 +18,4 @@ Aplicación sencilla para crear preguntas, generar una SEED determinista y jugar
 - Las respuestas se comparan sin distinguir mayúsculas/minúsculas y sin tildes.
 - La SEED se genera de forma determinista usando LZ-String y JSON.
 - El diseño está preparado para pantallas pequeñas.
+https://www.minecraftskins.com/uploads/skins/2026/10/14/danielcaza-24400515.png?v973
